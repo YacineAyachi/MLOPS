@@ -10,6 +10,6 @@ Users can enter their own parameters to predict the species of the flower.
 
 ## Installation
 
-- Clone this repository
+- clone this repository
 - run ``` docker compose up --build ```
 - access app via ``` http://localhost:8501/ ```
